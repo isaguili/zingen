@@ -24,7 +24,6 @@
 
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
-  --brand-gradient: linear-gradient(0deg, #FC4A1A, #F7B733);
 
   --ff-sans: 'Inter', system-ui, sans-serif;
   --fw-base: 400;
@@ -40,6 +39,7 @@
   --py-base: 1rem;
   --py-lg: 1.5rem;
   --py-xl: 3rem;
+
   --px-lg: 1.5rem;
 }
 
@@ -79,7 +79,7 @@ a {
   color: inherit;
 }
 
-ul[role="list"] {
+ul[role='list'] {
   list-style: none;
 }
 
