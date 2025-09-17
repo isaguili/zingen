@@ -9,5 +9,6 @@
 @import url(card.css);
 @import url(pricing.css);
 @import url(download.css);
+@import url(footer.css);
 @import url(features.css) (width >= 80em);
 
