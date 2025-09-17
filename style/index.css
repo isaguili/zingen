@@ -4,3 +4,9 @@
 @import url(social.css);
 @import url(header.css);
 @import url(hero.css);
+@import url(sections.css);
+@import url(about.css);
+@import url(card.css);
+@import url(pricing.css);
+@import url(features.css) (width >= 80em);
+

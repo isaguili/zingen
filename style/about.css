@@ -1,0 +1,11 @@
+#about {
+  background-color: var(--surface-color);
+
+  & even-colums {
+    gap: 2rem;
+  }
+
+  & img {
+    filter: drop-shadow(1rem 1rem .4rem rgb(0 0 0 / 0.34));
+  }
+}
