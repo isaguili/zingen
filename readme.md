@@ -24,7 +24,3 @@ Este projeto foi construído para:
 - Uso de **classes utilitárias** no CSS.  
 - **Arquitetura de CSS**: modularização em arquivos (`global.css`, `utilities.css`, `sections.css`).  
 - Estilização de **botões com borda gradiente** usando pseudo-classes.  
-
-### 👩‍💻 Autora
-**Isabella Guimarães**  
-Estudante de Análise e Desenvolvimento de Sistemas
